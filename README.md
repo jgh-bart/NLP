@@ -1,4 +1,2 @@
-# NLP
-Implementations of NLP algorithms
-
-Test edit
+# Test
+A dummy experimental repository
